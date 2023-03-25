@@ -1,16 +1,31 @@
-### Hi there 👋
+## Mi repositorio :boy:
 
-<!--
-**agustingarate/agustingarate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Buenas! Mi nombre es Agustin Garate y soy estudiante de Ingeniería en sistemas de la información. Actualmente estoy interesado principalmente en el desarrollo de aplicaciones móviles utilizando la tecnología Flutter. Sin embargo, tengo interés en diversas disciplinas como el Machine Learning, Business Analysis, etc.
 
-Here are some ideas to get you started:
+## Skills :mortar_board:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Flutter / Dart
+- HTML
+- CSS
+- C#
+- Git & Github
+- Python
+- Consumo de APIs
+- Algoritmos
+- Patrones de diseño y arquitectónicos
+- Firebase
+- Inglés B2
+
+## Proyectos :open_file_folder:
+
+Estos son algunos de los proyectos personales en los que estoy trabajado:
+
+- **Meraki**: Plataforma de cursos y actividades. Proyecto final de fin de carrera.
+- **Shop List**: Aplicación móvil para hacer listas de compras.
+- **Ahorcado:** Juego clásico del ahorcado.
+- **Marvel comics:** Catálogo de comics de Marvel para el cual he utilizado su API oficial.
+
+## Contacto
+- :email: agustingarate98@gmail.com
+- :bowtie: https://www.linkedin.com/in/agustin-garate
+
